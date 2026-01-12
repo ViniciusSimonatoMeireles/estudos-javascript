@@ -10,6 +10,9 @@ Este repositório contém meus exercícios e estudos iniciais em JavaScript.
 - Funções
 - Arrays
 - Objetos
+- Strings
 
 ## Objetivo
 Consolidar a base de lógica e JavaScript para ingressar na área de desenvolvimento.
+
+
